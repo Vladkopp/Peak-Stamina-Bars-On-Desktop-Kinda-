@@ -97,3 +97,4 @@ if __name__ == "__main__":
     root = tk.Tk()
     app = KeybindsInfoApp(root)
     root.mainloop()
+
